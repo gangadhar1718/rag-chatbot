@@ -603,8 +603,6 @@ streamlit run rag_chatbot_app.py
 5. **Access the chatbot**:
 Open your browser to `http://localhost:8501`
 
-### GitHub Repository
-[Link to your repository - add your actual GitHub URL here]
 
 ### Additional Resources
 - [AWS Bedrock Documentation](https://docs.aws.amazon.com/bedrock/)
